@@ -1,5 +1,5 @@
 {
-    "name": "php-arsenal/salesforce-soap-client",
+    "name": "potagercity/salesforce-soap-client",
     "type": "library",
     "description": "A client for the Salesforce SOAP API",
     "keywords": [ "salesforce", "crm", "soap", "force.com", "web services" ],
